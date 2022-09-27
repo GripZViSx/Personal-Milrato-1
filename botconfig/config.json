@@ -1,0 +1,38 @@
+{
+
+   "prefix": "~",
+   "ownerIDS": [
+      "844863061907210251"
+   ],
+   "memer_api": "g5SOlSadRiK",
+   "status": {
+      "text": "Test | Prefix is ~",
+      "text2": "Test | Prefix is ~",
+      "type": "LISTENING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "node01.lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+      "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
